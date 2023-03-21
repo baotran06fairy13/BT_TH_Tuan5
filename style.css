@@ -1,0 +1,85 @@
+#header{
+    display: flex;
+    border-bottom: 1px solid #ccc;
+    align-items: center;
+    justify-content: space-between;
+}
+#menu-header{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    padding-right: 300px;
+    
+}
+#information-header{
+    display: flex;
+    padding-left: 100px;
+    align-items: center;
+    position: relative;
+}
+#information-header input{
+    height: 35px;
+    width: 300px;
+    padding-left: 25px;
+    background-color: #f3f4f6;
+    border: none;
+}
+#img-information-header{
+    display: flex;
+    padding-left: 35px;
+}
+#img-information-header img{
+    display: flex;
+    width: 30px; height: 30px;
+    padding-right: 10px;
+    align-items: center ;
+}
+#center{
+    margin: 50px 175px;
+}
+#Product-title{
+    
+}
+#Rating-product{
+    display: flex;
+    justify-content: space-between;
+}
+.Rating-share-heart{
+    display: flex;
+    align-items: center;
+    padding-bottom: 20px;
+}
+#img-product{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+#small-img-product{
+    display: flex;
+    width: 50%;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+#Product-description{
+    display: flex;
+    justify-content: space-between;
+}
+#description-content{
+    width: 65%;
+}
+#description-ship{
+    width: 42%;
+
+}
+#description-ship div{
+    display: flex;
+    justify-content: space-between;
+}
+.tag-description-ship{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+#order{
+
+}
